@@ -1,0 +1,10 @@
+,test_lab,test_comm_young,test_60plus
+ensemble acc,94.94,87.95,71.35
+entropy (correct),0.11,0.2,0.35
+entropy (wrong),0.69,0.65,0.68
+"acc, most confident 80%",99.21,95.53,76.9
+acc: walking,100.0,100.0,74.32
+acc: sitting down,96.77,80.0,80.82
+acc: standing up,93.75,91.11,76.39
+acc: picking up,90.32,100.0,63.89
+acc: drinking,93.75,68.89,61.11
